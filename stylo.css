@@ -1,0 +1,144 @@
+*{
+    /*border: solid red 1px;*/
+    
+}
+.espacio1{
+    padding: 3%
+  }
+.espacio2{
+    padding: 6%
+}
+.espacio3{
+    padding: 9%
+}
+.espacio4{
+    padding: 12%
+}
+.mb-1{
+    color:#4B4854;
+}
+.mb-5{
+   color: #4B4854; 
+}
+.navbar{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.bienvenida{
+    background-image: url("imagenes/proyectos1.jpg");
+    background-position: center center;
+    color: rgb(255, 255, 255);
+    padding-top: 30px;
+}
+.imagenMI{
+    margin-right:0;
+    text-align: center;
+}
+.row{
+  padding: 4%;
+  margin: 3%;
+  text-align: center;
+  grid-column-gap: 10px;
+  
+
+}
+.Conocimiento{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.Conocimiento1{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+.image {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background: #eed09d;
+    margin:auto;
+    -webkit-box-shadow: 0px 3px 13px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 13px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 13px 0px rgba(0,0,0,0.75);
+}
+.texto{
+    text-align: center;
+    margin-bottom:60px;
+}
+.texto3{
+    text-align: center;
+}
+.texto1{
+    text-align: center;
+    margin-bottom:40px;
+}
+.presentacion{
+    text-align: center;
+    background-color: #F8F8F8;
+}
+.centro {
+    margin-top: 17%;
+    text-align: center;
+}
+.centro1{
+    margin-top: 17%;
+    text-align: center;
+}
+
+.cuadrado{
+    background-color: #F8F8F8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.progress{
+    margin-right :15%;
+    margin-left: 15%;
+    
+}
+.imacentral{
+    margin:0%;
+    padding: 0%;
+    padding-top: 30px;
+    text-align: center;
+}
+.Experiencia{
+    text-align: center;
+    margin:auto;
+    background-color: #F8F8F8;
+    margin: 7%;
+}
+.llave{
+    margin: 8%;
+}
+.red1{
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+.final{
+    background-color: #F8F8F8;
+}
+.textfinal{
+    margin:0px;
+	vertical-align:text-bottom;
+	width: 200px;
+	height: auto ! important;
+	height: 474px;
+}
+.card{
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+.Titulos{
+    font-size: 260%;
+}
+.phone{
+    margin-top: 30px;
+}
+.mail2{
+    margin-top: 30px;
+}
+
